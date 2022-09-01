@@ -7,7 +7,7 @@ export default {
     input: './src/replace.js',
     output: {
         format: 'iife',
-        file: './bullshit.js',
+        file: './le.js',
         indent: false
     },
     plugins: [resolve(), commonjs(), terser(), buble()]

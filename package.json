@@ -1,8 +1,8 @@
 {
-  "name": "@mourner/bullshit",
-  "version": "1.2.0",
-  "description": "Bullshit.js is a best-of-breed, mission-critical enterprise JavaScript bookmarklet that will empower you to evaluate the high impact of market-driven text on any Web resource, cultivating process-centric innovation and out-of-the-box thinking.",
-  "main": "bullshit.js",
+  "name": "@notfilippo/le",
+  "version": "1.0.0",
+  "description": "Le.js is a best-of-breed, mission-critical enterprise JavaScript bookmarklet that will empower you to evaluate the high impact of market-driven text on any Web resource, cultivating process-centric innovation and out-of-the-box thinking.",
+  "main": "le.js",
   "scripts": {
     "build": "rollup -c",
     "start": "rollup -cw",
@@ -11,22 +11,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mourner/bullshit.js.git"
+    "url": "git+https://github.com/notfilippo/le.js.git"
   },
   "keywords": [
-    "bullshit"
+    "le"
   ],
-  "author": "Vladimir Agafonkin",
+  "author": "Vladimir Agafonkin and Filippo Rossi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mourner/bullshit.js/issues"
+    "url": "https://github.com/notfilippo/le.js/issues"
   },
-  "homepage": "https://github.com/mourner/bullshit.js#readme",
+  "homepage": "https://github.com/notfilippo/le.js#readme",
   "eslintConfig": {
     "extends": "mourner"
   },
   "files": [
-    "bullshit.js"
+    "le.js"
   ],
   "devDependencies": {
     "findandreplacedomtext": "^0.4.6",
